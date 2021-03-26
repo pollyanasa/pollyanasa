@@ -2,7 +2,7 @@
 
 ### Pollyana Sá - [Data Scientist] 👋
 
-## I am an computer engineer turned data scientist who loves Data Visualization and Artificial Intelligence!
+## I'm a computer engineer turned data scientist who loves Data Visualization and Artificial Intelligence!
 
 - 💻 I’m currently studying for Data Science postgraduate
 - 📈 I’m constantly learning and Improving my skills 
