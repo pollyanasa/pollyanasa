@@ -1,4 +1,5 @@
 <img src="https://github.com/pollyanasa/pollyanasa/blob/620c52242485a35b113cd38c71f9d2a2b59200ae/Foto%2017-10-2021%2011%2020%2016.png" alt="banner that says Pollyana Sá - data scientist, computer engineer, artist">
+
 ### Pollyana Sá - [Data Scientist] 👋
 
 ## I'm a computer engineer turned data scientist who loves Data Visualization and Artificial Intelligence!
