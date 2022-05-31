@@ -4,9 +4,11 @@
 
 ## I'm a computer engineer turned data scientist who loves Data Visualization and Artificial Intelligence!
 
-- 💻 I’m currently studying for Data Science postgraduate
+- 💻 I’m currently studying for Data Science
 - 📈 I’m constantly learning and Improving my skills 
-- 📊 I’m looking to collaborate with other Data Scientists and developers 
+- 📊 I’m looking to collaborate with other Data Scientists and developers
+- 🦾 I have post graduation in Data Science
+- 🧠 I have a bachelor's degree in Computer Engineering  
 
 ### Connect with me:
 
