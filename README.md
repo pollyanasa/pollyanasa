@@ -4,7 +4,7 @@
 
 ## I'm a computer engineer turned data scientist who loves Data Visualization and Artificial Intelligence!
 
-- 💻 Data scientist for over three years
+- 💻 Data scientist for over four years
 - 📈 I’m constantly learning and Improving my skills 
 - 📊 I’m looking to collaborate with other Data Scientists and developers
 - 🦾 I have post graduation in Data Science
