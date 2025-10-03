@@ -15,7 +15,7 @@
 - Bachelor's degree in Computer Engineering
 
 - Currently working at Grupo Boticário for over three years
-- 
+  
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/pollyana-s%C3%A1-47b54a1b1/)
