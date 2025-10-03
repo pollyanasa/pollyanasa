@@ -33,8 +33,6 @@
 
 <img align="left" alt="GCP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 
-<img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-
 <img align="left" alt="SQL Server" width="30px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
 
 <img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
